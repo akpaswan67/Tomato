@@ -9,7 +9,7 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 const placeOrder = async (req,res) =>{
 
 	//when we deployed the online then frontend URL paste here.
-	const frontend_url = "http://localhost:5174"
+	const frontend_url = "http://localhost:5173"
 
 	try {
 		const newOrder = new orderModel({
