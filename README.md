@@ -1,3 +1,4 @@
+![Screenshot 2024-09-05 125853](https://github.com/user-attachments/assets/89841bd9-bbd7-4718-8886-3fa443e4d3f0)
 Food Ordering Platform:
 
 I developed a comprehensive food ordering platform designed to provide a seamless and user-friendly experience for both customers and administrators. The platform consists of three core components:
