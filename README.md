@@ -21,3 +21,22 @@ Real-Time Order Tracking:
 
 The platform offers real-time updates on order status, from the moment an order is placed until it is delivered. Users can track the status of their order through the user interface, and the system automatically updates when the admin changes the order status.
 Overall, this platform streamlines the food ordering process for both customers and administrators, offering real-time functionality, secure payment integration, and scalable backend architecture.
+
+![Screenshot 2024-09-05 124307](https://github.com/user-attachments/assets/8fc76c7a-545a-4c14-8aeb-7be163fe826a)
+![Screenshot 2024-09-05 124347 - Copy](https://github.com/user-attachments/assets/2f238c34-d6a5-4deb-945f-f5afb75e80b1)
+![Screenshot 2024-09-05 124415 - Copy](https://github.com/user-attachments/assets/5895a2e7-baae-468a-b78a-0739afee70db)
+![Screenshot 2024-09-05 124849 - Copy](https://github.com/user-attachments/assets/6dee11ec-0890-4576-be03-b4ad33ba2e8d)
+![Screenshot 2024-09-05 124929 - Copy](https://github.com/user-attachments/assets/3b092742-2633-4cf8-be08-9c8157b5238f)
+![Screenshot 2024-09-05 125053](https://github.com/user-attachments/assets/aa6399a5-5559-4406-879f-a1323ee8e251)
+![Screenshot 2024-09-05 125245](https://github.com/user-attachments/assets/cd2549ae-a5b4-43df-8c69-231de3b6f16f)
+![Screenshot 2024-09-05 125324](https://github.com/user-attachments/assets/f5310ef5-4475-4af9-8104-d0b536a36c76)
+![Screenshot 2024-09-05 125349](https://github.com/user-attachments/assets/550b0229-3ff5-49a1-9b3e-0ad1e4d88e52)
+
+
+
+
+
+
+
+
+
