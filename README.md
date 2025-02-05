@@ -8,7 +8,7 @@ The shopping cart updates dynamically, allowing users to manage their orders in 
 A secure authentication system enables users to register, log in, and view their order history. User data is securely stored using JWT (JSON Web Tokens) for session management.
 Integrated with Stripe, the platform supports secure online payments, allowing users to make payments directly through the website.
 
-Admin Panel:
+Admin Panel:  https://food-delivery-website-admin-5ex6.onrender.com
 The admin panel allows restaurant managers to add, update, or remove menu items, and manage incoming orders in real time.
 Admins can track and update the status of orders, from preparation to delivery, ensuring that customers are informed about the progress of their orders. This status is reflected dynamically on the user-facing website.
 The panel also provides data analytics for order management and sales tracking.
